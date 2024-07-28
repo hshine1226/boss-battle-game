@@ -74,8 +74,6 @@ const GameComponent = () => {
         let gameOverText
         let nextStageText
         let currentScene
-        let playerHealthText
-        let bossHealthText
         let playerHealthBar
         let bossHealthBar
         let stageText
